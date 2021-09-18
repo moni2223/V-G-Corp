@@ -1,4 +1,4 @@
-# V-G-Corp
+# V&G-Corp
 
 # Descripion
 V&G-Corp is an app which mission is to work similiarly like well-know Jira.It's an OOP project that helps for issue tracking,solving problems from different employees of the company.
