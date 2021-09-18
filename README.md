@@ -8,8 +8,8 @@ The project is still in Beta version.
 # Purpose
 University project.
 
-#Docs
+# Docs
 - [Info] (https://drive.google.com/file/d/1TNQFCVmPWxy-8x_snBWYg1F0B1OkVLh2/view?usp=sharing)
 
-#Refs
+# Refs
 - [C++] (https://www.cplusplus.com/)
